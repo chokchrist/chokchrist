@@ -1,6 +1,6 @@
 # Hi, I'm Christ 👋
 
-Welcome to my profile! I'm a student entrepreneur and a freelance Full-Stack Developer. Currently, I'm working on various projects and continuously learning new technologies. I love connecting with like-minded professionals, so feel free to reach out!
+Welcome to my profile! I'm a student entrepreneur and a freelance Full-Stack Developer. Currently, I'm working on [various projects](https://christj.netlify.app) and continuously learning new technologies. I love connecting with like-minded professionals, so feel free to [reach out](https://www.linkedin.com/in/chokchrist/)!
 
 
 ![](https://github-readme-stats.vercel.app/api?username=chokchrist&show_icons=true&theme=radical)<br/>
@@ -20,6 +20,8 @@ Welcome to my profile! I'm a student entrepreneur and a freelance Full-Stack Dev
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
