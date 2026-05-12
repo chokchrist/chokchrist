@@ -1,33 +1,39 @@
-# Hi, I'm Christ 👋
+# Hi, I'm Christ 👋 (aka Christo)
 
-Welcome to my profile! I'm a student entrepreneur and a freelance Full-Stack Developer. Currently, I'm working on [various projects](https://christj.netlify.app) and continuously learning new technologies. I love connecting with like-minded professionals, so feel free to [reach out](https://www.linkedin.com/in/chokchrist/)!
+Welcome to my profile! I'm a **Full-Stack Developer** and **Renewable Energy Technician** based in Las Palmas, Canary Islands. I specialize in bridging the gap between hardware (Solar/Networks) and software (Web/Apps).
 
+---
 
-![](https://github-readme-stats.vercel.app/api?username=chokchrist&show_icons=true&theme=radical)<br/>
+## 🚀 Currently Working On
+*   **Renewable Energy:** Finishing my qualification in Photovoltaic Solar Installations (ENAE0108).
+*   **Web & Portfolio:** Developing my [Professional Portfolio](https://christdev-thetha.vercel.app) on Vercel.
+*   **Networking & Cyber:** Pursuing Higher Education in Network Systems Administration (ASIR) and Cybersecurity.
 
+---
 
-## 💻 Tech Stack
+## 💻 Tech & Tools Stack
 
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+### 🌐 Development
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 
+### ☀️ Renewable Energy & Hardware
+![Photovoltaics](https://img.shields.io/badge/Solar_PV-Victron_Energy-orange) ![Industrial](https://img.shields.io/badge/Automation-Modbus%2FVE.Bus-blue) 
+*   **Energy Management:** Victron Energy Ecosystem (VE.Bus, MultiPlus, VRM).
+*   **Electrical:** LV Installations Maintenance (ELEE0109).
 
-## ✨ About me!
+### 🛡️ Networking & Cyber
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=fff) ![Wazuh](https://img.shields.io/badge/Wazuh-00A9E0?logo=wazuh&logoColor=fff) ![Networks](https://img.shields.io/badge/Networking-SMR%20%7C%20ASIR-green)
+*   **Focus:** Vulnerability detection, network auditing, and secure system administration.
 
-🎓 Currently studying at IES El Rincón, Canary Islands<br/>
-🚀 Completed my project **Planify**, now working on a new team-based project<br/>
-📱 Learning cross-platform app development<br/>
-🌱 Continuously improving and growing in the tech field<br/>
+---
+
+## ✨ Beyond the Code
+*   🎓 **Student at IES El Rincón:** Focused on Advanced Networking and Cybersecurity.
+*   🇷🇺 **Polyglot in Training:** Learning Russian (Level A0) for family communication.
+*   💪 **Calisthenics Enthusiast:** Focused on hypertrophy and progression.
+*   🌱 **Lifelong Learner:** Continuously integrating renewable tech with digital monitoring.
+
+---
+
+## 📫 Let's Connect!
+Feel free to [reach out on LinkedIn](https://www.linkedin.com/in/christ-jimenez/) or explore my [Portfolio](https://christdev-theta.vercel.app)!
